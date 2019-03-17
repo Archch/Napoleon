@@ -1,4 +1,4 @@
-# Napoleon
+# API
 1. cd notes
 2. python manage.py migrate
 3. python manage.py runserver 8080
